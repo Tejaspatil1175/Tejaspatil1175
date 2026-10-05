@@ -14,11 +14,9 @@
   <a href="https://www.tejaspatil.online/assets/resume.pdf"><img src="https://img.shields.io/badge/Resume-Download_PDF-2ea44f?style=for-the-badge"></a>
 </p>
 
-<p align="center">
-  <img src="./github-metrics.svg" alt="GitHub metrics" width="100%">
-</p>
 
-## 🚀 Selected projects
+
+## Selected projects
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -32,16 +30,16 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,tailwind,cpp,js,ts,git,figma,postman,vscode&perline=7">
 </p>
 
-## 🏆 Achievements
+##  Achievements
 
-- 🥇 **Top 10 finalist**: GSMA Connected Hackathon (Nokia APIs), IMC 2025, 1,800+ teams
-- 🏁 **National finalist**: TECHgium 9th Edition (LTTS), Helios AI
-- ⭐ **Top 8 of 117**: Globathon 2025 (Globatech Pune), Finora AI
-- 🏁 **Top 8 of 8,700+**: Tesco Retail Media InnovAItion Jam, RetailSyncAI
-- 🥉 **3rd place**: Innovent by SOBUS @ NMIMS Shirpur, CropConnect
-- 🥇 **1st place**: Udaan Innovation Competition
-- 🏁 **Finalist**: CodeSphere 24-hr Hackathon @ GCOEJ
+-  **Top 10 finalist**: GSMA Connected Hackathon (Nokia APIs), IMC 2025, 1,800+ teams
+-  **National finalist**: TECHgium 9th Edition (LTTS), Helios AI
+-  **Top 8 of 117**: Globathon 2025 (Globatech Pune), Finora AI
+-  **Top 8 of 8,700+**: Tesco Retail Media InnovAItion Jam, RetailSyncAI
+-  **3rd place**: Innovent by SOBUS @ NMIMS Shirpur, CropConnect
+-  **1st place**: Udaan Innovation Competition
+-  **Finalist**: CodeSphere 24-hr Hackathon @ GCOEJ
 
-## 📫 Let's create something real
+##  Let's create something real
 
 Email: tejaspatil1175@gmail.com · [Portfolio](https://www.tejaspatil.online) · [LinkedIn](https://www.linkedin.com/in/tejaspatil-dev/)
