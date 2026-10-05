@@ -1,33 +1,135 @@
-# Hi, I'm Tejas Patil 👋
+# Tejas Patil
 
-### Full-Stack Developer | DSA in C++ | AI & FinTech
+### Full-Stack Developer | C++ / DSA | AI & FinTech
 
-I'm a 3rd-year B.Tech IT student building real-world
-software, AI-powered systems, and scalable web applications.
+3rd-year B.Tech IT student focused on building real-world full-stack applications, AI-powered systems, and secure fintech solutions.
 
-- 💻 MERN Stack
-- 🧠 DSA in C++
-- 🤖 AI & AI Agents
-- 🔐 FinTech & Fraud Detection
-- 🚀 Hackathons & Product Development
+I work primarily with the MERN stack and C++, with interests in AI agents, system design, payment systems, fraud detection, and scalable backend architecture.
 
-## 🛠️ Tech Stack
+---
 
-C++ • JavaScript • React • Node.js • Express.js • MongoDB • SQL
+## Profiles
 
-## 🏆 Achievements
+- Portfolio: [tejaspatil.online](https://tejaspatil.online)
+- LinkedIn: [in/tejaspatil-dev](https://www.linkedin.com/in/tejaspatil-dev/)
+- LeetCode: [@tejaspatil_010](https://leetcode.com/u/tejaspatil_010/)
+- Resume: [Download CV](https://tejaspatil.online)
 
-- 🥇 1st Place — Udaan Idea-thon
-- 🥉 3rd Place — Sobos Idea-thon
-- 🥉 3rd Place — Hackwave 2.0
-- 🏅 Nokia/GSMA Open Gateway — Top 10 Team
+---
 
-## 🚀 Featured Projects
+## Selected Projects
 
-- **PayGate 402** — Agentic payment security system
-- **CricSense** — Cricket telemetry system
-- **AgriWise** — AI-powered agriculture solution
+### PayGate 402
+**Agentic Payment Integrity Mesh**
 
-## 📫 Connect With Me
+React, Node.js, Express.js, MongoDB, AP2, x402, Razorpay
 
-🌐 Portfolio: https://tejaspatil.online
+Agentic payment gateway designed for AI agents to negotiate and settle cryptographically signed transactions using AP2/x402 and Razorpay.
+
+[Repository](https://github.com/Tejaspatil1175)
+
+### CricSense
+**Real-Time Cricket Telemetry System**
+
+React Native, Expo, Node.js, WebSockets, Unity, C#
+
+Real-time 9-DOF sensor motion tracking pipeline for measuring bat swing velocity, impact dynamics, and shot mechanics.
+
+[Repository](https://github.com/Tejaspatil1175)
+
+### FinSecure
+**Enterprise Security Platform**
+
+Next.js, Node.js, Express.js, MongoDB, Nokia Network APIs
+
+AI-powered banking fraud prevention platform integrating Nokia Open Gateway telco APIs to detect and prevent SIM-swap attacks.
+
+**Top 10 Finalist — GSMA Connected Hackathon / Nokia APIs**
+
+[Repository](https://github.com/Tejaspatil1175)
+
+---
+
+## Technical Skills
+
+| Category | Technologies |
+|---|---|
+| Languages | C++, JavaScript, SQL |
+| Frontend | React, Next.js, React Native, Tailwind CSS |
+| Backend | Node.js, Express.js, REST APIs |
+| Databases | MongoDB, SQL |
+| AI & Systems | AI Agents, AI/ML Integration, System Design |
+| Tools | Git, GitHub, VS Code, Postman, Figma |
+
+---
+
+## Achievements
+
+### GSMA Connected Hackathon — Nokia APIs
+**Top 10 Finalist out of 1,800+ teams**
+
+Built FinSecure using Nokia Network APIs and presented at Yashobhoomi, New Delhi during IMC 2025.
+
+### TECHgium 9th Edition — LTTS
+**National Finalist**
+
+Built Helios AI, a GenAI-powered system for predictive solar farm management.
+
+### Globathon 2025 — Globatech Pune
+**Top 8 out of 117 teams**
+
+Built Finora, an AI-powered financial analyst platform during a 10-hour hackathon.
+
+### Tesco Retail Media InnovAItion Jam
+**Top 8 Finalist out of 8,700+ registrations**
+
+Built RetailSyncAI, a GenAI-powered retail solution.
+
+### Innovent by Sobus — NMIMS Shirpur
+**3rd Place**
+
+Built CropConnect, an AgriTech startup solution.
+
+### Udaan Innovation Competition
+**1st Place**
+
+Won the regional innovation and entrepreneurship competition.
+
+### CodeSphere 24-Hour Hackathon — GCOEJ
+**Finalist**
+
+Finalist at a 24-hour hackathon organized by GCOEJ Jalgaon.
+
+---
+
+## Currently Working On
+
+- Data Structures and Algorithms in C++
+- Full-Stack MERN development
+- AI agents and agentic systems
+- FinTech and payment security
+- System design and scalable backend architecture
+
+---
+
+## Development Approach
+
+**Research → Concept → Design → Develop → Optimize → Deliver → Scale**
+
+I focus on understanding the problem first, building practical solutions, measuring performance, and continuously improving the system.
+
+---
+
+## Contact
+
+Email: tejaspatil1175@gmail.com
+
+Portfolio: [tejaspatil.online](https://tejaspatil.online)
+
+LinkedIn: [tejaspatil-dev](https://www.linkedin.com/in/tejaspatil-dev/)
+
+GitHub: [@Tejaspatil1175](https://github.com/Tejaspatil1175)
+
+---
+
+> Design is intelligence made visible.
