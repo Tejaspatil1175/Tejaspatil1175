@@ -1,135 +1,207 @@
-# Tejas Patil
+# TEJAS PATIL
 
-### Full-Stack Developer | C++ / DSA | AI & FinTech
+**FULL-STACK DEVELOPER · C++ / DSA · AI SYSTEMS · FINTECH**
 
-3rd-year B.Tech IT student focused on building real-world full-stack applications, AI-powered systems, and secure fintech solutions.
+> Building software at the intersection of intelligent systems, secure payments, and scalable web architecture.
 
-I work primarily with the MERN stack and C++, with interests in AI agents, system design, payment systems, fraud detection, and scalable backend architecture.
-
----
-
-## Profiles
-
-- Portfolio: [tejaspatil.online](https://tejaspatil.online)
-- LinkedIn: [in/tejaspatil-dev](https://www.linkedin.com/in/tejaspatil-dev/)
-- LeetCode: [@tejaspatil_010](https://leetcode.com/u/tejaspatil_010/)
-- Resume: [Download CV](https://tejaspatil.online)
+[PORTFOLIO](https://tejaspatil.online) · [LINKEDIN](https://www.linkedin.com/in/tejaspatil-dev/) · [LEETCODE](https://leetcode.com/u/tejaspatil_010/) · [RESUME](https://tejaspatil.online)
 
 ---
 
-## Selected Projects
+## 01 / SYSTEM PROFILE
 
-### PayGate 402
-**Agentic Payment Integrity Mesh**
+```text
+ROLE
+Full-Stack Developer
 
-React, Node.js, Express.js, MongoDB, AP2, x402, Razorpay
+CORE
+MERN · C++ · DSA · REST APIs · MongoDB · SQL
 
-Agentic payment gateway designed for AI agents to negotiate and settle cryptographically signed transactions using AP2/x402 and Razorpay.
+FOCUS
+AI Agents
+FinTech Infrastructure
+Payment Security
+Fraud Detection
+System Design
 
-[Repository](https://github.com/Tejaspatil1175)
-
-### CricSense
-**Real-Time Cricket Telemetry System**
-
-React Native, Expo, Node.js, WebSockets, Unity, C#
-
-Real-time 9-DOF sensor motion tracking pipeline for measuring bat swing velocity, impact dynamics, and shot mechanics.
-
-[Repository](https://github.com/Tejaspatil1175)
-
-### FinSecure
-**Enterprise Security Platform**
-
-Next.js, Node.js, Express.js, MongoDB, Nokia Network APIs
-
-AI-powered banking fraud prevention platform integrating Nokia Open Gateway telco APIs to detect and prevent SIM-swap attacks.
-
-**Top 10 Finalist — GSMA Connected Hackathon / Nokia APIs**
-
-[Repository](https://github.com/Tejaspatil1175)
+CURRENT MODE
+Building → Testing → Optimizing → Shipping
+```
 
 ---
 
-## Technical Skills
+## 02 / SELECTED SYSTEMS
 
-| Category | Technologies |
-|---|---|
-| Languages | C++, JavaScript, SQL |
-| Frontend | React, Next.js, React Native, Tailwind CSS |
-| Backend | Node.js, Express.js, REST APIs |
-| Databases | MongoDB, SQL |
-| AI & Systems | AI Agents, AI/ML Integration, System Design |
-| Tools | Git, GitHub, VS Code, Postman, Figma |
+### PAYGATE 402
+**AGENTIC PAYMENT INTEGRITY MESH**
 
----
+`React` `Node.js` `Express.js` `MongoDB` `AP2` `x402` `Razorpay`
 
-## Achievements
+A payment infrastructure system for AI agents to negotiate, authorize and settle transactions using cryptographically signed payment mandates.
 
-### GSMA Connected Hackathon — Nokia APIs
-**Top 10 Finalist out of 1,800+ teams**
+**Focus:** Agentic Commerce · Payment Security · Cryptographic Authorization
 
-Built FinSecure using Nokia Network APIs and presented at Yashobhoomi, New Delhi during IMC 2025.
-
-### TECHgium 9th Edition — LTTS
-**National Finalist**
-
-Built Helios AI, a GenAI-powered system for predictive solar farm management.
-
-### Globathon 2025 — Globatech Pune
-**Top 8 out of 117 teams**
-
-Built Finora, an AI-powered financial analyst platform during a 10-hour hackathon.
-
-### Tesco Retail Media InnovAItion Jam
-**Top 8 Finalist out of 8,700+ registrations**
-
-Built RetailSyncAI, a GenAI-powered retail solution.
-
-### Innovent by Sobus — NMIMS Shirpur
-**3rd Place**
-
-Built CropConnect, an AgriTech startup solution.
-
-### Udaan Innovation Competition
-**1st Place**
-
-Won the regional innovation and entrepreneurship competition.
-
-### CodeSphere 24-Hour Hackathon — GCOEJ
-**Finalist**
-
-Finalist at a 24-hour hackathon organized by GCOEJ Jalgaon.
+[VIEW SYSTEM →](https://github.com/Tejaspatil1175)
 
 ---
 
-## Currently Working On
+### CRICSENSE
+**REAL-TIME CRICKET TELEMETRY**
 
-- Data Structures and Algorithms in C++
-- Full-Stack MERN development
-- AI agents and agentic systems
-- FinTech and payment security
-- System design and scalable backend architecture
+`React Native` `Expo` `Node.js` `WebSockets`
 
----
+Real-time 9-DOF sensor telemetry pipeline for analyzing bat movement, swing velocity, impact dynamics and shot mechanics.
 
-## Development Approach
+**Focus:** Real-Time Systems · Sensor Data · Telemetry
 
-**Research → Concept → Design → Develop → Optimize → Deliver → Scale**
-
-I focus on understanding the problem first, building practical solutions, measuring performance, and continuously improving the system.
+[VIEW SYSTEM →](https://github.com/Tejaspatil1175)
 
 ---
 
-## Contact
+### FINSECURE
+**AI FRAUD PREVENTION INFRASTRUCTURE**
 
-Email: tejaspatil1175@gmail.com
+`Next.js` `Node.js` `Express.js` `MongoDB` `Nokia APIs`
 
-Portfolio: [tejaspatil.online](https://tejaspatil.online)
+AI-powered banking security platform designed to detect SIM-swap attacks using telecom network intelligence.
 
-LinkedIn: [tejaspatil-dev](https://www.linkedin.com/in/tejaspatil-dev/)
+**TOP 10 FINALIST — GSMA CONNECTED HACKATHON**
 
-GitHub: [@Tejaspatil1175](https://github.com/Tejaspatil1175)
+[VIEW SYSTEM →](https://github.com/Tejaspatil1175)
 
 ---
 
-> Design is intelligence made visible.
+## 03 / ENGINEERING STACK
+
+```text
+LANGUAGES
+C++ · JavaScript · SQL
+
+FRONTEND
+React · Next.js · React Native · Tailwind CSS
+
+BACKEND
+Node.js · Express.js · REST APIs · WebSockets
+
+DATABASE
+MongoDB · SQL
+
+AI / SYSTEMS
+AI Agents · AI/ML Integration · System Design
+
+DEVELOPER TOOLS
+Git · GitHub · VS Code · Postman · Figma
+```
+
+---
+
+## 04 / COMPETITIVE RECORD
+
+```text
+GSMA CONNECTED HACKATHON
+TOP 10 / 1,800+ TEAMS
+
+TECHGIUM 9TH EDITION
+NATIONAL FINALIST
+
+TESCO RETAIL MEDIA INNOVAItion JAM
+TOP 8 / 8,700+ REGISTRATIONS
+
+GLOBATHON 2025
+TOP 8 / 117 TEAMS
+
+UDAAN INNOVATION COMPETITION
+1ST PLACE
+
+INNOVENT — SOBUS
+3RD PLACE
+
+CODESPHERE
+FINALIST
+```
+
+---
+
+## 05 / CURRENT RESEARCH
+
+```text
+[01] DSA / C++
+     Problem Solving · Algorithms · Data Structures
+
+[02] FULL-STACK
+     MERN · Backend Architecture · APIs
+
+[03] AI SYSTEMS
+     Agents · Tool Calling · AI Integration
+
+[04] FINTECH
+     Payment Infrastructure · Fraud Detection · Security
+
+[05] SYSTEM DESIGN
+     Scalability · Reliability · Distributed Systems
+```
+
+---
+
+## 06 / BUILD PHILOSOPHY
+
+```text
+RESEARCH
+    ↓
+UNDERSTAND THE PROBLEM
+    ↓
+DESIGN THE SYSTEM
+    ↓
+BUILD THE CORE
+    ↓
+TEST UNDER LOAD
+    ↓
+OPTIMIZE
+    ↓
+SHIP
+    ↓
+ITERATE
+```
+
+I prefer building systems around real problems rather than creating technology for the sake of technology.
+
+---
+
+## 07 / OPEN TO
+
+```text
+INTERNSHIPS
+SOFTWARE DEVELOPMENT
+FULL-STACK ENGINEERING
+AI / AGENT SYSTEMS
+FINTECH
+HACKATHON COLLABORATIONS
+OPEN-SOURCE PROJECTS
+```
+
+---
+
+## 08 / CONNECT
+
+**EMAIL**  
+tejaspatil1175@gmail.com
+
+**PORTFOLIO**  
+[tejaspatil.online](https://tejaspatil.online)
+
+**LINKEDIN**  
+[in/tejaspatil-dev](https://www.linkedin.com/in/tejaspatil-dev/)
+
+**LEETCODE**  
+[@tejaspatil_010](https://leetcode.com/u/tejaspatil_010/)
+
+**GITHUB**  
+[@Tejaspatil1175](https://github.com/Tejaspatil1175)
+
+---
+
+```text
+SYSTEM STATUS: BUILDING
+
+DESIGN · ENGINEERING · SECURITY · IMPACT
+```
