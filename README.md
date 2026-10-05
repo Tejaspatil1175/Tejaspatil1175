@@ -1,207 +1,47 @@
-# TEJAS PATIL
-
-**FULL-STACK DEVELOPER · C++ / DSA · AI SYSTEMS · FINTECH**
-
-> Building software at the intersection of intelligent systems, secure payments, and scalable web architecture.
-
-[PORTFOLIO](https://tejaspatil.online) · [LINKEDIN](https://www.linkedin.com/in/tejaspatil-dev/) · [LEETCODE](https://leetcode.com/u/tejaspatil_010/) · [RESUME](https://tejaspatil.online)
-
----
-
-## 01 / SYSTEM PROFILE
-
-```text
-ROLE
-Full-Stack Developer
-
-CORE
-MERN · C++ · DSA · REST APIs · MongoDB · SQL
-
-FOCUS
-AI Agents
-FinTech Infrastructure
-Payment Security
-Fraud Detection
-System Design
-
-CURRENT MODE
-Building → Testing → Optimizing → Shipping
-```
-
----
-
-## 02 / SELECTED SYSTEMS
-
-### PAYGATE 402
-**AGENTIC PAYMENT INTEGRITY MESH**
-
-`React` `Node.js` `Express.js` `MongoDB` `AP2` `x402` `Razorpay`
-
-A payment infrastructure system for AI agents to negotiate, authorize and settle transactions using cryptographically signed payment mandates.
-
-**Focus:** Agentic Commerce · Payment Security · Cryptographic Authorization
-
-[VIEW SYSTEM →](https://github.com/Tejaspatil1175)
-
----
-
-### CRICSENSE
-**REAL-TIME CRICKET TELEMETRY**
-
-`React Native` `Expo` `Node.js` `WebSockets`
-
-Real-time 9-DOF sensor telemetry pipeline for analyzing bat movement, swing velocity, impact dynamics and shot mechanics.
-
-**Focus:** Real-Time Systems · Sensor Data · Telemetry
-
-[VIEW SYSTEM →](https://github.com/Tejaspatil1175)
-
----
-
-### FINSECURE
-**AI FRAUD PREVENTION INFRASTRUCTURE**
-
-`Next.js` `Node.js` `Express.js` `MongoDB` `Nokia APIs`
-
-AI-powered banking security platform designed to detect SIM-swap attacks using telecom network intelligence.
-
-**TOP 10 FINALIST — GSMA CONNECTED HACKATHON**
-
-[VIEW SYSTEM →](https://github.com/Tejaspatil1175)
-
----
-
-## 03 / ENGINEERING STACK
-
-```text
-LANGUAGES
-C++ · JavaScript · SQL
-
-FRONTEND
-React · Next.js · React Native · Tailwind CSS
-
-BACKEND
-Node.js · Express.js · REST APIs · WebSockets
-
-DATABASE
-MongoDB · SQL
-
-AI / SYSTEMS
-AI Agents · AI/ML Integration · System Design
-
-DEVELOPER TOOLS
-Git · GitHub · VS Code · Postman · Figma
-```
-
----
-
-## 04 / COMPETITIVE RECORD
-
-```text
-GSMA CONNECTED HACKATHON
-TOP 10 / 1,800+ TEAMS
-
-TECHGIUM 9TH EDITION
-NATIONAL FINALIST
-
-TESCO RETAIL MEDIA INNOVAItion JAM
-TOP 8 / 8,700+ REGISTRATIONS
-
-GLOBATHON 2025
-TOP 8 / 117 TEAMS
-
-UDAAN INNOVATION COMPETITION
-1ST PLACE
-
-INNOVENT — SOBUS
-3RD PLACE
-
-CODESPHERE
-FINALIST
-```
-
----
-
-## 05 / CURRENT RESEARCH
-
-```text
-[01] DSA / C++
-     Problem Solving · Algorithms · Data Structures
-
-[02] FULL-STACK
-     MERN · Backend Architecture · APIs
-
-[03] AI SYSTEMS
-     Agents · Tool Calling · AI Integration
-
-[04] FINTECH
-     Payment Infrastructure · Fraud Detection · Security
-
-[05] SYSTEM DESIGN
-     Scalability · Reliability · Distributed Systems
-```
-
----
-
-## 06 / BUILD PHILOSOPHY
-
-```text
-RESEARCH
-    ↓
-UNDERSTAND THE PROBLEM
-    ↓
-DESIGN THE SYSTEM
-    ↓
-BUILD THE CORE
-    ↓
-TEST UNDER LOAD
-    ↓
-OPTIMIZE
-    ↓
-SHIP
-    ↓
-ITERATE
-```
-
-I prefer building systems around real problems rather than creating technology for the sake of technology.
-
----
-
-## 07 / OPEN TO
-
-```text
-INTERNSHIPS
-SOFTWARE DEVELOPMENT
-FULL-STACK ENGINEERING
-AI / AGENT SYSTEMS
-FINTECH
-HACKATHON COLLABORATIONS
-OPEN-SOURCE PROJECTS
-```
-
----
-
-## 08 / CONNECT
-
-**EMAIL**  
-tejaspatil1175@gmail.com
-
-**PORTFOLIO**  
-[tejaspatil.online](https://tejaspatil.online)
-
-**LINKEDIN**  
-[in/tejaspatil-dev](https://www.linkedin.com/in/tejaspatil-dev/)
-
-**LEETCODE**  
-[@tejaspatil_010](https://leetcode.com/u/tejaspatil_010/)
-
-**GITHUB**  
-[@Tejaspatil1175](https://github.com/Tejaspatil1175)
-
----
-
-```text
-SYSTEM STATUS: BUILDING
-
-DESIGN · ENGINEERING · SECURITY · IMPACT
-```
+<h1 align="center">Hey, I'm Tejas Patil 👋</h1>
+<p align="center"><i>"Design is intelligence made visible."</i></p>
+
+<p align="center">
+  Full-stack developer · MERN · C++/DSA · System design<br/>
+  Hackathon finalist (Top 10 of 1,800+ teams at IMC 2025) · <b>Open for roles</b>
+</p>
+
+<p align="center">
+  <a href="https://www.tejaspatil.online"><img src="https://img.shields.io/badge/Portfolio-tejaspatil.online-0d1117?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/tejaspatil-dev/"><img src="https://img.shields.io/badge/LinkedIn-tejaspatil--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://leetcode.com/u/tejaspatil_010/"><img src="https://img.shields.io/badge/LeetCode-tejaspatil__010-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+  <a href="mailto:tejaspatil1175@gmail.com"><img src="https://img.shields.io/badge/Email-tejaspatil1175-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.tejaspatil.online/assets/resume.pdf"><img src="https://img.shields.io/badge/Resume-Download_PDF-2ea44f?style=for-the-badge"></a>
+</p>
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="GitHub metrics" width="100%">
+</p>
+
+## 🚀 Selected projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**PayGate 402**](https://github.com/Tejaspatil1175/PayGate_402) | Agentic payment gateway where AI agents negotiate and settle signed transactions via AP2/x402 & Razorpay | React, Node.js, Express, MongoDB, Razorpay |
+| [**CricSense**](https://github.com/Tejaspatil1175/CricSense-Telemetry-System) | Real-time 9-DOF sensor pipeline measuring bat swing velocity, impact and shot mechanics | React Native, Expo, WebSockets, Unity, C# |
+| [**FinSecure**](https://github.com/yashodipmore/Nokia-Challenge_Sarthak) 🏅 | AI banking fraud prevention using Nokia Open Gateway APIs to stop SIM-swap attacks. **Top 10 finalist, IMC New Delhi** | Next.js, Node.js, MongoDB, Nokia APIs |
+
+## 🛠️ Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,tailwind,cpp,js,ts,git,figma,postman,vscode&perline=7">
+</p>
+
+## 🏆 Achievements
+
+- 🥇 **Top 10 finalist**: GSMA Connected Hackathon (Nokia APIs), IMC 2025, 1,800+ teams
+- 🏁 **National finalist**: TECHgium 9th Edition (LTTS), Helios AI
+- ⭐ **Top 8 of 117**: Globathon 2025 (Globatech Pune), Finora AI
+- 🏁 **Top 8 of 8,700+**: Tesco Retail Media InnovAItion Jam, RetailSyncAI
+- 🥉 **3rd place**: Innovent by SOBUS @ NMIMS Shirpur, CropConnect
+- 🥇 **1st place**: Udaan Innovation Competition
+- 🏁 **Finalist**: CodeSphere 24-hr Hackathon @ GCOEJ
+
+## 📫 Let's create something real
+
+Email: tejaspatil1175@gmail.com · [Portfolio](https://www.tejaspatil.online) · [LinkedIn](https://www.linkedin.com/in/tejaspatil-dev/)
